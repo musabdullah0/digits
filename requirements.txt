@@ -9,12 +9,16 @@ Jinja2==2.11.2
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
+mkl-fft==1.0.15
+mkl-random==1.1.1
+mkl-service==2.3.0
 numpy==1.18.4
+olefile==0.46
 Pillow==7.1.2
 pyparsing==2.4.7
 python-dateutil==2.8.1
 six==1.15.0
-https://download.pytorch.org/whl/cpu/torch-1.5.0-cp38-none-macosx_10_9_x86_64.whl
+torch==1.5.0
 torchvision==0.6.0
 tqdm==4.46.0
 Werkzeug==1.0.1
