@@ -28,7 +28,8 @@ class Reader:
         # net with CrossEntropyLoss and Adam
         net = Net()
         net = net.double()
-        net.load_state_dict(torch.load(checkpoint))
+        net.load_state_dict(torch.load(
+            checkpoint, map_location=torch.device('cpu')))
         # net = net.double()
         # loss_criterion = nn.CrossEntropyLoss()
         # optimizer = torch.optim.Adam(net.parameters(), lr=0.001)
