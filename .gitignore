@@ -1,0 +1,4 @@
+MNIST
+__pycache__
+*.pt
+!model.pt
