@@ -1,6 +1,5 @@
 import numpy as np
 from tqdm import tqdm
-from matplotlib import pyplot as plt
 
 import torch
 import torchvision.datasets as datasets

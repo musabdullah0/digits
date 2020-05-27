@@ -1,7 +1,5 @@
 from PIL import Image, ImageFilter
 import numpy as np
-from matplotlib import pyplot as plt
-
 from mnist_trainer import Net, load_checkpoint
 import torch
 import torch.nn as nn
