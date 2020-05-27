@@ -14,6 +14,7 @@ Pillow==7.1.2
 pyparsing==2.4.7
 python-dateutil==2.8.1
 six==1.15.0
-https://download.pytorch.org/whl/cpu/torch-1.5.0-cp38-none-macosx_10_9_x86_64.whltorchvision==0.6.0
+https://download.pytorch.org/whl/cpu/torch-1.5.0-cp38-none-macosx_10_9_x86_64.whl
+torchvision==0.6.0
 tqdm==4.46.0
 Werkzeug==1.0.1
