@@ -13,6 +13,7 @@ Pillow==7.1.2
 pip-autoremove==0.9.1
 pycparser==2.20
 six==1.15.0
-torch==1.1.0
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp27-none-macosx_10_6_x86_64.whl
+torchvision==0.5.0
 tqdm==4.46.0
 Werkzeug==1.0.1

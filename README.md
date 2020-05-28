@@ -6,7 +6,7 @@ The desktop game was built using the pygame module and the online version was bu
 # usage
 pygame version: run `python game.py`
 
-web version: `not currently available`
+web version: run `gunicorn app:app`
 
 train network: `python mnist_trainer.py <checkpoint_file> <num_epochs>`
 
