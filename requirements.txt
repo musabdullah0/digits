@@ -9,7 +9,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.18.4
 olefile==0.46
-Pillow==7.1.2
+Pillow==8.3.2
 pip-autoremove==0.9.1
 pycparser==2.20
 six==1.15.0
